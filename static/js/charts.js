@@ -122,7 +122,7 @@ function buildCharts(sample) {
     var firstMeta = metadataSample[0];    
 
     // 3. Create a variable that holds the washing frequency.
-    var wfreq = parseFloat(metadataSample.wfreq);
+    var wfreq = parseFloat(firstMeta.wfreq);
 
     // 4. Create the trace for the gauge chart.
     var gaugeData = [{
