@@ -119,7 +119,8 @@ function buildCharts(sample) {
     var metadataSample = metadataArray_all.filter(sampleObj => sampleObj.id == sample);
 
     // 2. Create a variable that holds the first sample in the metadata array.
-    var firstMeta = metadataSample[0];    
+    var firstMeta = metadataSample[0];
+    console.log(firstMeta)    
 
     // 3. Create a variable that holds the washing frequency.
     var wfreq = parseFloat(firstMeta.wfreq);
