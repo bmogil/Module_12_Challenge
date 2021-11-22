@@ -52,7 +52,7 @@ function buildMetadata(sample) {
   });
 };
 
-// Bar and Bubble charts
+// Bar and Bubble charts and Gauge Chart
 // Create the buildCharts function.
 function buildCharts(sample) {
   // Use d3.json to load and retrieve the samples.json file 
