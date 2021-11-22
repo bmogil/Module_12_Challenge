@@ -11,5 +11,5 @@ If Roza's hypothesis is correct, Roza will be able to contact whoever possesses 
 ![](Images/dashboardtop.png)
 ---
 ## Picture of Dashboard-Bottom
-![](Images/dashboardbottom.png)
+![](Images/dashboard bottom.png)
 
