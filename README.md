@@ -12,4 +12,10 @@ If her hypothesis is correct, she will be able to contact whoever possesses this
 ---
 ## Picture of Dashboard-Bottom
 ![](Images/dashboardbottom.png)
-
+---
+## Tools/Packages Used
+* Javascript
+  - D3.js
+  - Plotly
+* HTML/CSS
+* Bootstrap
